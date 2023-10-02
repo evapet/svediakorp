@@ -1,0 +1,2 @@
+# svediakorp
+Swedish Diachronic Corpus
